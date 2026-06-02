@@ -1,4 +1,3 @@
-````md
 <h1 align="left">👋 Hi, I'm Rohan Kumbhar</h1>
 
 <h3 align="left">
@@ -137,6 +136,3 @@ bench restart
 ````
 
 still fixes more production issues than expected 😄
-
-```
-```
