@@ -1,88 +1,77 @@
 <h1 align="left">👋 Hi, I'm Rohan Kumbhar</h1>
 
 <h3 align="left">
-ERPNext & Frappe Developer • Systems Engineer • Automation Builder • Technical Architect
+Senior Frappe/ERPNext Developer • R&D Manager • Production Infrastructure • IoT & AI Integrations
 </h3>
 
 <p align="left">
-Backend-focused engineer passionate about building scalable ERP systems, automation platforms, production infrastructure, and real-world industrial integrations using Python, Frappe Framework, and ERPNext.
-</p>
-
-<p align="left">
-I specialize in ERP architecture, workflow automation, infrastructure optimization, backend engineering, and solving complex operational challenges through technology.
+3.5+ years building and running production Frappe/ERPNext systems end to end: custom apps, industrial hardware integrations, and the infrastructure underneath them. Based in Pune, India.
 </p>
 
 ---
 
 # 🚀 What I Do
 
-- Build scalable ERPNext & Frappe applications
-- Design backend architectures & automation systems
-- Optimize production ERP deployments
-- Develop industrial & hardware-integrated solutions
-- Improve system performance & operational workflows
-- Build modern full-stack web applications
-- Automate business processes using technology
+- Build and maintain production Frappe/ERPNext apps: DocTypes, hooks, server scripts, background jobs, print formats, patches
+- Own the full bench lifecycle: provisioning, multi-site management, upgrades, migrations, backups
+- Integrate hardware with ERP: NFC, ANPR cameras, weigh-scales, serial indicators, biometric devices
+- Tune MariaDB and Redis for high-load deployments
+- Evaluate AI/LLM tooling in R&D and ship it as Frappe apps
+- Lead developers, set coding standards and run onboarding
+
+---
+
+# 🏭 Selected Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Automated Vehicle Weighment** | NFC gate entry + Hikvision ANPR + weigh-scale capture in one ERP workflow. 70% faster weighment processing | Python, Frappe, NFC, ANPR API |
+| **Weighbridge Serial Indicator Integration** | Reads weights from serial indicators straight into ERPNext | Python, Frappe, RS-232 |
+| **ESSL Biometric Sync** | Scheduled attendance sync for 200+ employees. 85% faster attendance processing | Python, Frappe, ESSL API |
+| **Logistics Management** | Dispatch, trip assignment, live GPS tracking, fuel vouchers from live pricing | Frappe, Google Maps API |
+| **Frappe Copilot** | In-desk AI guide overlay with floating chat widget and workflow guidance | Python, JavaScript, LLM APIs |
+| **Agentic Workforce** | AI agent-driven task app built on Frappe | Python, Frappe, LLM APIs |
+| **Crypto Trading Platform (R&D)** | Frappe v16 app with LightGBM signal models, multi-LLM validation, risk engine and a real-time WebSocket dashboard | Python, Frappe v16, LightGBM |
 
 ---
 
 # 🛠️ Core Expertise
 
-## ⚙️ ERP & Backend Development
+## ⚙️ ERP & Backend
 
-- **Frappe Framework** – Custom apps, workflows, hooks, APIs, automation
-- **ERPNext** – Enterprise solutions & business process optimization
-- **Python** – Backend engineering, automation & integrations
-- **REST APIs** – Third-party integrations & scalable APIs
-- **MariaDB / MySQL** – Query optimization & database tuning
-- **Redis** – Caching & queue management
-- **Linux Infrastructure** – Production deployment & server management
+- **Frappe Framework** (v14–v16): custom apps, workflows, hooks, REST APIs, background jobs
+- **ERPNext**: implementation and process customization for EPC and industrial manufacturing clients
+- **Python**: backend engineering, automation, integrations
+- **MariaDB**: query optimization, InnoDB buffer pool tuning, dedicated DB server setups
+- **Redis**: caching and queue management
 
----
+## 🖥️ Infrastructure & Production Ops
 
-## 🏭 Industrial Automation & Integrations
+- Ubuntu 22.04/24.04 server provisioning, Supervisor/systemd, nginx reverse proxy
+- SSL/TLS with Certbot (DNS-01 and HTTP-01)
+- Server migrations and app/DB server separation
+- S3-compatible object storage (DigitalOcean Spaces)
+- Docker, bench upgrades, dependency and build-failure debugging
 
-- Weighbridge Automation Systems
-- NFC Smart Card Integrations
-- RTSP Camera Automation
-- Thermal Printing Systems (ESC/POS)
-- Serial Device Communication
-- Image Capture & Processing Workflows
+## 🔌 Industrial Integrations
 
----
+- Weighbridge and serial device communication
+- NFC smart cards, RTSP/ANPR cameras
+- Thermal printing (ESC/POS)
+- Biometric attendance devices
 
-## 💻 Frontend & Web Technologies
+## 💻 Frontend
 
-- JavaScript
-- React.js / Next.js
-- HTML / CSS
-- Tailwind CSS
-- Jinja Templates
-
----
-
-# ⚡ Areas of Focus
-
-- ERP Architecture
-- Production ERPNext Deployments
-- Enterprise Automation
-- Infrastructure Optimization
-- Multi-tenant SaaS Platforms
-- EPC Management Systems
-- AI + ERP Integrations
-- Workflow Automation
-- Open Source Development
+- JavaScript, React.js / Next.js, HTML/CSS, Tailwind CSS, Jinja templates
 
 ---
 
 # 🧠 Currently Exploring
 
-- AI-powered ERP systems
-- Scalable SaaS architecture using Frappe
-- Real-time systems & automation
-- Infrastructure monitoring & optimization
-- ERP performance engineering
-- Trading automation platforms
+- AI-powered ERP: LLM copilots and agent workflows inside Frappe
+- Scalable multi-tenant SaaS architecture on Frappe
+- ERP performance engineering and infrastructure monitoring
+- Real-time systems and trading automation
 
 ---
 
@@ -96,10 +85,12 @@ I specialize in ERP architecture, workflow automation, infrastructure optimizati
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
 
@@ -133,6 +124,6 @@ I specialize in ERP architecture, workflow automation, infrastructure optimizati
 
 ```bash
 bench restart
-````
+```
 
 still fixes more production issues than expected 😄
